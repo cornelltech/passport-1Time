@@ -1,0 +1,26 @@
+{
+  "name": "passport-1time",
+  "version": "0.0.1",
+  "description": "Passport strategy designed for use with 1Time",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornelltech/passport-1Time.git"
+  },
+  "keywords": [
+    "passport",
+    "strategy",
+    "1Time",
+    "authentication",
+    "passwordless"
+  ],
+  "author": "James Kizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cornelltech/passport-1Time/issues"
+  },
+  "homepage": "https://github.com/cornelltech/passport-1Time#readme"
+}
