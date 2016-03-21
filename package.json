@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/cornelltech/passport-1Time/issues"
   },
-  "homepage": "https://github.com/cornelltech/passport-1Time#readme"
+  "homepage": "https://github.com/cornelltech/passport-1Time#readme",
+  "dependencies": {
+    "passport-strategy": "^1.0.0",
+    "request": "^2.69.0",
+    "util": "^0.10.3"
+  }
 }
